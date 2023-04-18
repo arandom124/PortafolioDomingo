@@ -195,11 +195,15 @@ function Mitrabajo() {
                     Juego Bingo
                       </h1>
                       <div className="relative">
+                      <a
+                          href="https://eshekik-bingo.vercel.app/"
+                          className="flex space-x-5 items-center hover:text-slate-300"
+                        >
                         <img
                           src={bingo}
                           alt="bingo"
                           className="flex space-x-5 items-center hover:text-slate-300"
-                        />
+                        /></a>
                         <span className="absolute rounded-full backdrop-saturate-50 bg-zinc-500/30 backdrop-blur-sm bottom-10 left-[150px]">
                           <h1 className="font-bold text-3xl text-white py-4 px-[26px]">
                             1
@@ -219,11 +223,15 @@ function Mitrabajo() {
                     Web Informativo y Radio Streamin 24/7
                       </h1>
                       <div className="relative">
+                      <a
+                          href="http://misakacike.22web.org/"
+                          className="flex space-x-5 items-center hover:text-slate-300"
+                        >
                         <img
                           src={misakweb}
                           alt="misakweb"
                           className="flex space-x-5 items-center hover:text-slate-300"
-                        />
+                        /></a>
                         <span className="absolute rounded-full backdrop-saturate-50 bg-zinc-500/30 backdrop-blur-sm bottom-10 left-[150px]">
                           <h1 className="font-bold text-3xl text-white py-4 px-[26px]">
                             2
@@ -267,11 +275,15 @@ function Mitrabajo() {
                     Taller de Phishing y Metasploit
                       </h1>
                       <div className="relative">
+                      <a
+                          href="https://phishing-fup.vercel.app/"
+                          className="flex space-x-5 items-center hover:text-slate-300"
+                        >
                         <img
                           src={hacker}
                           alt="hacker"
                           className="flex space-x-5 items-center hover:text-slate-300"
-                        />
+                        /></a>
                         <span className="absolute rounded-full backdrop-saturate-50 bg-zinc-500/30 backdrop-blur-sm bottom-10 left-[150px]">
                           <h1 className="font-bold text-3xl text-white py-4 px-[26px]">
                             4
