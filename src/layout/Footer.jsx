@@ -12,9 +12,9 @@ function Footer() {
               // href="#"
             >
               <Github />
-              <h1 className="font-bold text-1xl text-zinc-400">|</h1>
+              <h1 className="font-bold text-1xl text-zinc-400">| con </h1>
               <h1 className="font-bold text-1xl text-zinc-400">❤</h1>
-              <h1 className="font-bold text-1xl text-zinc-400">y ArandomCore</h1>
+              <h1 className="font-bold text-1xl text-zinc-400">ArandomCore</h1>
               </a>
           </h1>
           

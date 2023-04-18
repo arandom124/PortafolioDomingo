@@ -57,10 +57,10 @@ function Quiz() {
 
   if (isFinished) {
     return (
-      <section className="lg:w-[100em] pt-4 mx-auto">
+      <section className="lg:w-[90em] pt-4 mx-auto">
         <div className="space-y-12 md:text-left px-8 lg:px-0">
           <div className=" space-y-5 sm:mx-auto sm:space-y-4">
-            <h2 className="pt-10 lg:pt-44 text-3xl font-black text-center text-white sm:text-6xl">
+            <h2 className="pt-10lg:pt-44 text-2xl font-black text-center text-white sm:text-6xl">
               <span>🎉 </span>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-300 via-blue-500 to-blue-100">
                 Quiz de Phishing
@@ -176,7 +176,7 @@ function Quiz() {
 
   if (answersShow) {
     return (
-      <section className="w-[100em] pt-4 mx-auto">
+      <section className="w-[90em] pt-4 mx-auto">
         <div className="space-y-12 md:text-left">
           <div className=" space-y-5 sm:mx-auto sm:space-y-4">
             <h2 className="pt-44 text-4xl font-black text-center text-white sm:text-6xl">
@@ -243,7 +243,7 @@ function Quiz() {
   }
 
   return (
-    <section className="lg:w-[100em] pt-4 mx-auto">
+    <section className="lg:w-[90em] pt-4 mx-auto">
       <div className="space-y-12 md:text-left px-8 lg:px-0">
         <div className=" space-y-5 sm:mx-auto sm:space-y-4">
           <h2 className="pt-10 lg:pt-44 text-3xl font-black text-center text-white sm:text-6xl">

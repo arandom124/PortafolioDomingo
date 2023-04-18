@@ -184,13 +184,13 @@ function Mitrabajo() {
             <div className="flex flex-col gap-8">
               <div className="flex justify-center items-start">
                 <div className="flex flex-col gap-8 items-center">
-                <h2 className="pt-10 pb-5 text-4xl font-black text-center text-white sm:text-4xl">
-                  <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-pink-500 to-blue-400">
+                <h2 className="pt-10 pb-5 text-4xl font-black text-center text-white sm:text-1xl">
+                  <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-pink-500 to-blue-400 text-3xl">
                   Mis Proyectos
                   </span>
                 </h2>
                   <div className="flex flex-col gap-4">
-                    <div className="flex flex-col w-[420px] border-[3px] p-4 rounded-lg bg-gray-900">
+                    <div className="flex flex-col w-[350px] border-[3px] p-4 rounded-lg bg-gray-900">
                     <h1 className="font-bold text-sky-400 text-2xl text-center pb-8">
                     Juego Bingo
                       </h1>
@@ -218,7 +218,7 @@ function Mitrabajo() {
                       Solo es compatible con el navegador EDGE, abstengase en abrir otros nevegadores. TOTALMENTE GRATUITO con servicio a nuestra COMUNIDAD. Una app que permite a los usuarios una mejor interacción en el momento de registro de datos conectada 100% con la nube. ademas permite visualizar una tablero de control de los diferentes numeros que con solo un clic Cambia de color en cual podra hacer un seguimiento de cuales numeros ya se balotearon.    SOLICITA LA CREDENCIALES AL DESARROLLADOR PARA ACCEDER AL DASHBOARD JUEGO BINGO 🎱🎱🎱.
                       </p>
                     </div>
-                    <div className="flex flex-col w-[420px] border-[3px] p-4 rounded-lg bg-gray-900">
+                    <div className="flex flex-col w-[350px] border-[3px] p-4 rounded-lg bg-gray-900">
                     <h1 className="font-bold text-sky-400 text-2xl text-center pb-8">
                     Web Informativo y Radio Streamin 24/7
                       </h1>
@@ -246,7 +246,7 @@ function Mitrabajo() {
                       Es una app web conmpatible con todos los navegadores ademas de eso es responsivo para todas las plataformas Web, Movil y Tabletas🎧🎤.  podras encontrar diferentes contenidos, información de mi comunidad Misak, Emprendimientos Muckups y por su puesto las emisoras de nuestra comunidad y fuera de ello solo con un clic podras escuhar musicas variadas a gusto de cada uno🔎.
                       </p>
                     </div>
-                    <div className="flex flex-col w-[420px] border-[3px] p-4 rounded-lg bg-gray-900">
+                    <div className="flex flex-col w-[350px] border-[3px] p-4 rounded-lg bg-gray-900">
                     <h1 className="font-bold text-sky-400 text-2xl text-center pb-8">
                     Ezio Plataforma
                       </h1>
@@ -270,7 +270,7 @@ function Mitrabajo() {
                       👽👾🌎🌍🌏Sitio web para colegios y escuelas realizada en PHP, ajax, javascript, CodeInteger.  aun esta en produccion pero muy pronto estara al alcance de quien los necesite.
                       </p>
                     </div>
-                    <div className="flex flex-col w-[420px] border-[3px] p-4 rounded-lg bg-gray-900">
+                    <div className="flex flex-col w-[350px] border-[3px] p-4 rounded-lg bg-gray-900">
                     <h1 className="font-bold text-sky-400 text-2xl text-center pb-8">
                     Taller de Phishing y Metasploit
                       </h1>
@@ -298,7 +298,7 @@ function Mitrabajo() {
                       Taller realizado para el curso de seguridad informática del semillero de investigación 🖥️SENTINEL 💻.
                       </p>
                     </div>
-                    <div className="flex flex-col w-[420px] border-[3px] p-4 rounded-lg bg-gray-900">
+                    <div className="flex flex-col w-[350px] border-[3px] p-4 rounded-lg bg-gray-900">
                     <h1 className="font-bold text-sky-400 text-2xl text-center pb-8">
                     Tambien Presto servicios de sistemas Infromaticos.
                       </h1>

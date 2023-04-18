@@ -60,7 +60,7 @@ function Explaboral() {
               <div className="flex justify-center items-start">
                 <div className="flex flex-col gap-8 items-center">
                 <h2 className="pt-10 pb-5 text-4xl font-black text-center text-white sm:text-4xl">
-                  <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-pink-500 to-blue-400">
+                  <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-pink-500 to-blue-400 text-3xl">
                   Experiencia Laboral
                   </span>
                 </h2>

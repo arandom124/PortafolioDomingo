@@ -141,6 +141,7 @@ function Educacion() {
 
                   <span className="flex justify-start col-span-1">
                     <img
+                      style={{ width: '240px',height: '100px'}}
                       src={fup}
                       alt="fup"
                       className="relative object-cover w-72"

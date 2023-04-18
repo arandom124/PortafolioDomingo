@@ -11,7 +11,7 @@ function Intereses() {
           
           <div className="grid grid-cols-2 gap-6">
             <div className="flex flex-col col-span-1 gap-8">
-              <h2 className="pt-10 pb-10 text-4xl font-black text-sky-400 sm:text-3xl">
+              <h2 className="pt-10 pb-10 text-2xl font-black text-sky-400 sm:text-3xl">
                 Resumen Personal:
               </h2>
 
@@ -25,7 +25,7 @@ function Intereses() {
               </h1>
             </div>
             <div className="col-span-1 flex flex-col gap-8">
-            <h2 className="pt-10 pb-10 text-4xl font-black text-sky-400 sm:text-3xl">
+            <h2 className="pt-10 pb-10 text-2xl font-black text-sky-400 sm:text-3xl">
             Intereses Personales:
               </h2>
               <h1 className="text-1xl font-normal text-neutral-400 pb-5">
@@ -41,12 +41,12 @@ function Intereses() {
         </div>
         <div className=" space-y-5 sm:mx-auto sm:space-y-4">
           <h2 className="pt-10 pb-5 text-4xl font-black text-center text-white sm:text-4xl">
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-pink-500 to-blue-400">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-pink-500 to-blue-400 text-3xl">
               Idiomas
             </span>
           </h2>
           <div className="flex justify-center">
-            <h1 className="flex flex-col gap-0 text-2xl font-normal text-justify text-neutral-400 pb-5">
+            <h1 className="flex flex-col gap-0 text-1xl font-normal text-justify text-neutral-400 pb-5">
               <span>
               Namtrik Nativo
               <br />
